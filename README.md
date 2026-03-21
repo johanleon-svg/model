@@ -1,4 +1,4 @@
-# App-01 — Node Express WebApp
+# App-02 — Node Express WebApp
 
 Aplicación web base construida con **Node.js + Express**, diseñada como punto de partida para un sistema de gestión de cartera de inversiones.
 
