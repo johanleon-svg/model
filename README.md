@@ -1,4 +1,4 @@
-# App-02 — Node Express WebApp
+# App-01 — Node Express WebApp
 
 Aplicación web base construida con **Node.js + Express**, diseñada como punto de partida para un sistema de gestión de cartera de inversiones.
 
@@ -87,14 +87,6 @@ app-01/
 
 * `npm run dev` → Ejecutar en modo desarrollo
 * `npm run start` → Ejecutar en modo producción
-
----
-
-## Próximas versiones
-### Trabajo ABP 8
-* Estructurar  las  respuestas  de  la  API  con  formato  consistente  (  status, message, data  ). 
-
-
 ---
 
 ## Autor
