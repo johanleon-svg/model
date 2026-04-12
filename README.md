@@ -90,5 +90,6 @@ app-01/
 ---
 
 ## Autor
+Johan León González
 
 Proyecto base para desarrollo educativo y demostraciones prácticas con Node.js y Express.
